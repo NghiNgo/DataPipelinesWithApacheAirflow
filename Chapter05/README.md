@@ -1,7 +1,3 @@
-# Chapter 5
-
-Code accompanying Chapter 5 of the book 'Data pipelines with Apache Airflow'.
-
 ## Contents
 
 This code example contains the following DAGs:

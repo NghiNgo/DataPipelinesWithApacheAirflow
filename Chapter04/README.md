@@ -1,7 +1,3 @@
-# Chapter 4
-
-Code accompanying Chapter 4 of the book [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow).
-
 ## Contents
 
 This folder contains DAGs from Chapter 4. The filenames and DAG ids follow the listing ids in the book. Near
