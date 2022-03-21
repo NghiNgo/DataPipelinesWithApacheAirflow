@@ -1,7 +1,3 @@
-## Contents
-
-This folder contains DAGs from Chapter 6.
-
 ## Usage
 
 To get started with the code examples, start Airflow with Docker Compose with the following command:
