@@ -1,2 +1,4 @@
 
 Chapter07/insideairbnb/dags/custom/__init__.py
+Chapter08/package/airflow-movielens/src/airflow_movielens/__init__.py
+Chapter08/dags/custom/__init__.py
