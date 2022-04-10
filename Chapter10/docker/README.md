@@ -1,7 +1,5 @@
 # Chapter 10 - Docker
 
-Code accompanying the Docker part of Chapter 10 from the book 'Data pipelines with Apache Airflow'.
-
 ## Contents
 
 This code example starts with an example of a Docker image using the wttr API. You can find this example image under `images/wttr-example`.
